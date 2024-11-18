@@ -37,11 +37,11 @@ pip3 install -r requirements.txt
    - Buat bot baru melalui [@BotFather](https://t.me/botfather)
    - Salin token bot
    - Dapatkan chat ID Anda
-   - Update konfigurasi di `config.py`
+   - Update konfigurasi di `monitor.py`
 
 ## ⚙️ Konfigurasi
 
-1. Buka file `config.py`
+1. Buka file `monitor.py`
 2. Update variabel berikut:
 ```python
 TELEGRAM_TOKEN = "YOUR_BOT_TOKEN"
