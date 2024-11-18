@@ -1,2 +1,28 @@
-# xmrig-telegram-monitor
-🚀 Bot monitoring XMRig melalui Telegram | Real-time hashrate tracking | CPU &amp; Memory monitoring | Pool status alerts | Simple yet powerful 📊
+# 🤖 XMRig Telegram Monitor
+
+Monitor performa mining XMRig Anda secara real-time melalui Telegram bot. Dapatkan informasi lengkap tentang hashrate, penggunaan sistem, dan status mining dalam format yang mudah dibaca.
+
+## ✨ Fitur Utama
+
+- 📊 Monitoring hashrate real-time
+- 🖥️ Informasi penggunaan CPU & Memory
+- 📈 Statistik shares dan performa
+- ⚡ Alert status koneksi pool
+- 🕒 Laporan uptime mining
+- 📱 Notifikasi melalui Telegram
+
+## 🛠️ Persyaratan Sistem
+
+- Python 3.6+
+- XMRig dengan API aktif
+- Bot Telegram
+- Paket Python yang diperlukan:
+  - requests
+  - datetime
+
+## 📦 Instalasi
+
+1. Clone repository
+```bash
+git clone https://github.com/classyid/xmrig-telegram-monitor.git
+cd xmrig-telegram-monitor
